@@ -29,7 +29,7 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
 
 - :desktop_computer: Exploring Data Science and Data Analytics.
 
-- ⌨️: In my free time, I :airplane: travel :desert_island:, enjoy concerts :musical_note:, attend sporting events :basketball: :football:, and explore different ways to improve my analytical skillset.
+- ⌨️: In my free time, I like to :airplane: travel :desert_island:, enjoy concerts :musical_note:, attend sporting events :basketball: :football:, and explore different ways to improve my analytical skillset.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-williedavisjr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/williedavisjr?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnxrlO%2FnKQJSRugIAJ7DrdQ%3D%3D")
 
