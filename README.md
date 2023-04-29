@@ -67,13 +67,13 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavjr&theme=github_dark" /> 
 
-
+<!--
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
+-->
 
 
 <!--
