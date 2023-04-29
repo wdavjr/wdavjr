@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/KH2sZYM8blvYv4eitF/giphy.gif" width="175"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDljOGQ5NDBjMDc1YjhhM2FlZDYwYzM5MTU5YmFkZjdlZGIyZGI1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif" width="275"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/williedavisjr?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnxrlO%2FnKQJSRugIAJ7DrdQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
     <a href="wdav"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -12,7 +12,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://www.klipfolio.com/sites/all/themes/klipfolio_theme/img/home/business-dashboard-command-centre.png" width="600" height="300"/>
+  <img src="https://th.bing.com/th/id/R.37079dcf3f7ce6f1314aab102718cab9?rik=XtMj3dv%2fUtL8MQ&pid=ImgRaw&r=0" width="600" height="300"/>
 </div>
 
 ---
