@@ -63,9 +63,10 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wdavjr&theme=dark&mode=weekly)](https://git.io/streak-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=wdavjr&show_icons=true&theme=github_dark" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavjr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavjr&theme=github_dark" /> 
+
 
 ---
 <!-- BLOG-POST-LIST:START -->
