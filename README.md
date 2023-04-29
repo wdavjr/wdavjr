@@ -25,9 +25,50 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
 
 - :desktop_computer: Exploring Data Science and Data Analytics.
 
-- ⌨️: In my free time, I :airplane: travel :hotel:, solve problems on GeeksforGeeks and read tech articles.
+- ⌨️: In my free time, I :airplane: travel :desert_island:, enjoy concerts :musical_note:, attend sporting events :basketball: :football:, and work to improve my analytic knowlege by analyzing various datasets.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-williedavisjr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/williedavisjr?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnxrlO%2FnKQJSRugIAJ7DrdQ%3D%3D")
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://eucariota.eu/wp-content/uploads/2020/01/PowerBI.jpg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/77479673/235270346-d97a5521-af47-4bbd-8b52-7aaf1f577ec8.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://www.vhv.rs/dpng/d/551-5514196_iconos-logos-microsoft-office-word-excel-power-point.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://skillwave.training/wp-content/uploads/2015/03/Power-Query-Training-Logo.png" title="Power Query" alt="Power Query" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Dockerr" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://www.zinmobi.com/wp-content/uploads/2014/05/Icon_Capture.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="50" height="50"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.5bq-2a7PDcYQtsR8jRW87wHaHa?pid=ImgDet&rs=1" title="SQL Server"  alt="SQLSever" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://clipground.com/images/github-logo-png-7.jpg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wdavjr&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavjr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
