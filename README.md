@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <!--   <div id="main-header"> -->
-    <img src="black-header-image.png" alt="Main Header"><br>
+    <img src="assets/black-header-image.png" alt="Main Header"><br>
   <br>
 <!--   </div> -->
 <!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDljOGQ5NDBjMDc1YjhhM2FlZDYwYzM5MTU5YmFkZjdlZGIyZGI1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif" width="275"/> -->
@@ -63,9 +63,10 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wdavjr&theme=dark&mode=weekly)](https://git.io/streak-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=wdavjr&show_icons=true&theme=github_dark" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavjr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavjr&theme=github_dark" /> 
+
 
 ---
 <!-- BLOG-POST-LIST:START -->
