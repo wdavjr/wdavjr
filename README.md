@@ -1,5 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDljOGQ5NDBjMDc1YjhhM2FlZDYwYzM5MTU5YmFkZjdlZGIyZGI1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif" width="275"/>
+<!--   <div id="main-header"> -->
+    <img src="black-header-image.png" alt="Main Header"><br>
+  <br>
+<!--   </div> -->
+<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDljOGQ5NDBjMDc1YjhhM2FlZDYwYzM5MTU5YmFkZjdlZGIyZGI1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif" width="275"/> -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/williedavisjr?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnxrlO%2FnKQJSRugIAJ7DrdQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
     <a href="wdav"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
