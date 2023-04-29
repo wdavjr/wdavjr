@@ -65,8 +65,7 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
 
 ---
 <!-- BLOG-POST-LIST:START -->
-### :writing_hand: Blog Posts :
-
+<!-- ### :writing_hand: Blog Posts : -->
 
 <!-- BLOG-POST-LIST:END -->
 
