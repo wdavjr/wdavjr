@@ -66,11 +66,12 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
 <div style="text-align: center; margin: 0 auto; width=100%">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=wdavjr&show_icons=true&theme=github_dark" /> 
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavjr&theme=github_dark" /> 
-</div>
+</div><br>
+<br>
 <br>
 <div>
 </div>
-
+&nbsp;
 ---   
 
 ### ✍🏾 Blog Posts :
