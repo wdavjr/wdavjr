@@ -69,10 +69,9 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
 </div>
 
 <br clear="right"/>
+<!--     ---   -->
 
----   
-
-### ✍🏾 Blog Posts :
+<!-- ### ✍🏾 Blog Posts :
 
 <div>
     <p>
@@ -84,7 +83,7 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
     - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
     <!-- BLOG-POST-LIST:END -->
     </p>
-</div>
+</div> -->
 
 
 
