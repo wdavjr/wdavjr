@@ -58,22 +58,17 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
-
----
+  
+---   
 
 ### :fire: My Stats :
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=wdavjr&show_icons=true&theme=github_dark" /> 
+<div style="text-align: center; margin: 0 auto; width=100%">
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=wdavjr&show_icons=true&theme=github_dark" /> 
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavjr&theme=github_dark" /> 
+</div>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavjr&theme=github_dark" /> 
-
-
----
-<!-- BLOG-POST-LIST:START -->
-<!-- ### :writing_hand: Blog Posts : -->
-
-<!-- BLOG-POST-LIST:END -->
-
+<br clear="right"/>
 
 
 
