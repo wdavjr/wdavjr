@@ -38,14 +38,14 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://eucariota.eu/wp-content/uploads/2020/01/PowerBI.jpg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/77479673/235270346-d97a5521-af47-4bbd-8b52-7aaf1f577ec8.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://www.vhv.rs/dpng/d/551-5514196_iconos-logos-microsoft-office-word-excel-power-point.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="https://skillwave.training/wp-content/uploads/2015/03/Power-Query-Training-Logo.png" title="Power Query" alt="Power Query" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Dockerr" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://www.zinmobi.com/wp-content/uploads/2014/05/Icon_Capture.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
@@ -58,6 +58,7 @@ I  an ambitious Data Detective, <img src="https://media.giphy.com/media/v1.Y2lkP
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
+
   
 ---   
 
